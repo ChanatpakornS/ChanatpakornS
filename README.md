@@ -3,12 +3,12 @@ Hello World!
 ```
 # I'm Chanatpakorn Sirintronsopon , an intensive sleeper
 
-Currently studied at 🏫 Chulalongkorn University
+Currently studied `Engineering` at 🏫 Chulalongkorn University
 
 
 - I'm into :
   
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css)
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css,ai,pr,ps,py)
 
   ## Ma Skills
 - Gotcha : 
