@@ -9,7 +9,7 @@ Currently studied `Engineering` at 🏫 Chulalongkorn University
 
 - I'm into :
   
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css,ai,pr,ps,py)
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css,ai,pr,ps,py,go,react,java,cpp)
 
   ## Ma Skills
 - Gotcha : 
@@ -20,5 +20,4 @@ Currently studied `Engineering` at 🏫 Chulalongkorn University
 - Ngl : 
   
   ![My Skills](https://skillicons.dev/icons?i=ts,xd,unreal,unity,swift,redux,raspberrypi,php)\
-  ![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,mysql,linux,go,react,prisma)
-  ![My Skills](https://skillicons.dev/icons?i=cpp,java)
+  ![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,mysql,linux,go,prisma)
