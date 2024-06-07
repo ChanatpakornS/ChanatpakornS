@@ -1,26 +1,12 @@
-```
-cout << "Hello World!\n";
-```
-# I'm Chanatpakorn Sirintronsopon , an intensive sleeper
-How to read a book ? I'm using GPT3.5 😃
+# I'm Chanatpakorn Sirintronsopon , an intensive sleeper.
 
-feel free to contact me 🤓
+feel free to contact me 🤓 via email , FB , or else
 
-Currently studied `Engineering` at 🏫 `Chulalongkorn University`
+(link provided on my personal profile)
+
+Currently studied `Computer Engineering` at 🏫 `Chulalongkorn University`
 
 
 - I'm into :
   
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css,ai,pr,ps,py,go,react,java,cpp,ts,nextjs)
-
-# Ma Skills
-- Gotcha :
-  None
-
-
-# Not Ma Skills
-  *(it's cool to have lots of icons on profile 🍋 ):
-- Ngl : 
-  
-  ![My Skills](https://skillicons.dev/icons?i=xd,unreal,unity,swift,redux,raspberrypi,php)\
-  ![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,mysql,linux,prisma)
+  ![My Skills](https://skillicons.dev/icons?i=python,react,java,cpp,js,ts,nextjs,astro,go)
