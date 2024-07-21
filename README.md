@@ -1,4 +1,4 @@
-# I'm Chanatpakorn Sirintronsopon , an intensive sleeper.
+# I'm Aungpao , an intensive sleeper.
 
 feel free to contact me 🤓 via email , FB , or else
 
