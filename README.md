@@ -6,7 +6,6 @@ feel free to contact me 🤓 via email , FB , or else
 
 Currently studied `Computer Engineering` at 🏫 `Chulalongkorn University`
 
+# Projects
 
-- I'm into :
-  
-  ![My Skills](https://skillicons.dev/icons?i=python,react,java,cpp,js,ts,nextjs,astro,go)
+- **None**
