@@ -14,4 +14,4 @@ Currently studying `Computer Engineering` at 🏫 `Chulalongkorn University`
 
 ## Top languages
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanatpakornS&show_icons=true&langs_count=10&layout=compact&hide_progress=false&theme=tokyonight)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanatpakornS&show_icons=true&langs_count=100&layout=compact&hide=css,jupyter%20notebook,&hide_progress=false&theme=tokyonight)
