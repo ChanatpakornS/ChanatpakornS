@@ -5,10 +5,13 @@
 
 <h1 align="center">I'm Aungpao 🤙 , an intensive sleeper.</h1>
 
+<blockquote>
+  <h2 align="center">Currently studying Computer Engineering @ 🏫 Chulalongkorn University</h2>
+</blockquote>
+
 <p align="center">
 feel free to contact me 🤓 via email , FB , or else </br>
 (link provided on my personal profile)</br>
-Currently studying `Computer Engineering` at 🏫 `Chulalongkorn University`
 </p>
 
 <div flex align="center">
