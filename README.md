@@ -15,7 +15,7 @@ feel free to contact me 🤓 via email , FB , or else </br>
 </p>
 
 <div flex align="center">
-<img alt='top-lang' height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=ChanatpakornS&show_icons=true&card_width=300&langs_count=100&layout=compact&hide=css,jupyter%20notebook,&hide_progress=false&theme=tokyonight' />
+<img alt='top-lang' height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=ChanatpakornS&show_icons=true&card_width=300&langs_count=100&layout=compact&hide=css,jupyter%20notebook,tcl,&hide_progress=false&theme=tokyonight' />
 <img alt='Stats' height=200 src='https://github-readme-stats.vercel.app/api/?username=ChanatpakornS&show_icons=true&langs_count=10&width=500&layout=compact&hide_progress=false&theme=tokyonight'>
 </div>
 
