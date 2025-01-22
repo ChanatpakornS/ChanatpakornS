@@ -14,8 +14,3 @@ feel free to contact me 🤓 via email , FB , or else </br>
 <img alt='Stats' height=200 src='https://github-readme-stats.vercel.app/api/?username=ChanatpakornS&show_icons=true&langs_count=10&width=500&layout=compact&hide_progress=false&theme=tokyonight'>
 </div>
 
-<p align="center">
-  <img align="center" src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0ejFidGNlZm5ncmtoOGU5YzQweHVpOWN1bHEzZzk0aDRvcGc2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif'/>
-</p>
-
-
